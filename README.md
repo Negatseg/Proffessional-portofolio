@@ -6,7 +6,7 @@ The requirement of the assignmnet is to build my portofolio in the webpage so th
 I have reviewed the assignmnet work requirements and developed the website.
 
 Body:
-The website is develop incorporating html and css codes. In the html code, all the required elaments are mentioned and included where as in css I try to 
+The website is develop incorporating html and css codes. In the html code, all the required elements are mentioned and included where as in the  css I try to 
 style my html and try to make the website more accessible. The html contians major sections like header main and footer.
 Conclusion:
 The html is done to incorporate best practces of semantic html.
