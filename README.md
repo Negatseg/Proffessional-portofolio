@@ -8,9 +8,11 @@ I have reviewed the assignmnet work requirements and developed the website.
 Body:
 The website is develop incorporating html and css codes. In the html code, all the required elements are mentioned and included where as in the  css I try to 
 style my html and try to make the website more accessible. The html contians major sections like header main and footer.
+The url of the webpage is : https://negatseg.github.io/my-proffessional-portofolio/
+The url of the github location is: https://github.com/Negatseg/my-proffessional-portofolio
 Conclusion:
 The html is done to incorporate best practces of semantic html.
 the css is also applied to style the website and make more accessible and readable.
 
 Sample picture:
-The website looks like this in browser.
+The website looks like this in browser: http://127.0.0.1:5500/index.html
